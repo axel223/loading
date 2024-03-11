@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/loadingReactAnimation/static/css/main.60d97d10.css",
-    "main.js": "/loadingReactAnimation/static/js/main.cf18526b.js",
-    "static/js/453.995a37b3.chunk.js": "/loadingReactAnimation/static/js/453.995a37b3.chunk.js",
-    "static/media/logo.svg": "/loadingReactAnimation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/loadingReactAnimation/index.html",
-    "main.60d97d10.css.map": "/loadingReactAnimation/static/css/main.60d97d10.css.map",
-    "main.cf18526b.js.map": "/loadingReactAnimation/static/js/main.cf18526b.js.map",
-    "453.995a37b3.chunk.js.map": "/loadingReactAnimation/static/js/453.995a37b3.chunk.js.map"
+    "main.css": "/loading/static/css/main.60d97d10.css",
+    "main.js": "/loading/static/js/main.f76e2815.js",
+    "static/js/453.995a37b3.chunk.js": "/loading/static/js/453.995a37b3.chunk.js",
+    "static/media/logo.svg": "/loading/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loading/index.html",
+    "main.60d97d10.css.map": "/loading/static/css/main.60d97d10.css.map",
+    "main.f76e2815.js.map": "/loading/static/js/main.f76e2815.js.map",
+    "453.995a37b3.chunk.js.map": "/loading/static/js/453.995a37b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60d97d10.css",
-    "static/js/main.cf18526b.js"
+    "static/js/main.f76e2815.js"
   ]
 }
