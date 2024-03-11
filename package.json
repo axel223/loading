@@ -2,7 +2,7 @@
   "name": "loading",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://axel0223.github.io/loadingReactAnimation",
+  "homepage": "https://axel0223.github.io/loading",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
